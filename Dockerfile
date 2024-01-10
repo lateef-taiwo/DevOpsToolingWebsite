@@ -12,4 +12,4 @@ RUN chown -R www-data:www-data /var/www
 
 CMD ["start-apache"]
 
-#FROM nginx
+#FROM nginx:latest
