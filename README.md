@@ -74,14 +74,12 @@ Default web root:
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
 ## Checking jenkins build job
-
+Tesking Jenkins CICD pipeline
 checking another build
 Testing the build
 
 Testing the pipeline
 
-Check jenkins
-Another build
 
 Test Jenkins 
 
